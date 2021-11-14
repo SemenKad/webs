@@ -1964,3 +1964,13 @@ figure figcaption {
 @media (max-width: 991.98px) {
   .owl-style-md .owl-nav {
     display: none; } }
+
+.videoss {
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+.videosss {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
